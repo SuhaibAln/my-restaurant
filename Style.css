@@ -258,7 +258,7 @@ margin-top: 20px;
     border-bottom:1px solid black ;
    }
    th{
-    background-color: #8de679;
+    background-color:  #8de679;
       color: #ddd;
    }
    tr:nth-child(even){background-color: #f2f2f2;}
